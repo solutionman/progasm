@@ -8,3 +8,9 @@ to compile
 nasm -f elf prog.asm
 
 ld -m elf_i386 -s -o prog prog.o
+
+to run:
+
+./prog
+
+
